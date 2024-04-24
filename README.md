@@ -55,7 +55,7 @@ the good stats while trying to minimize the negative ones.
 
 Installation:
 1. Create a folder named "Mods" in your Diablo II Resurrected library(if you don't already have one)
-2. Place "Mickesmod.mpq" in the "Mods" folder
+2. Place the folder "Mickesmod" in the "Mods" folder
 3. Create a shortcut to your "D2R.exe" on your desktop and right click it,
 select "properties" and add the command line " -mod Mickesmod" after "...Program Files (x86)\Diablo II Resurrected\D2R.exe" in the "Shortcut" tab.
 4. Play the game :)
